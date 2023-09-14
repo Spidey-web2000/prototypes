@@ -1,3 +1,3 @@
 # Copy prototypes 
 by Priyam-Shome
-# here you get the all web site prottotypes 
+# here you get some web site prottotypes ...
